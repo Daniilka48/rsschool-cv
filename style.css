@@ -65,6 +65,27 @@ body {
 .section {
     width: 50%;
 }
+
+
+.section-title-color {
+    color:red;
+}
+.skills-color {
+    color:lightcoral;
+}
+.rs-school {
+    position: relative; 
+    left: 1400px;
+}
+
+
+
+
+
+
+
+
+
 @media (max-width: 768px) {
     .section {
       width: 100%;
